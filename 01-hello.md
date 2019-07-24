@@ -14,7 +14,8 @@
 2. その `main` の中に以下の関数呼び出しを追加します。
 
     ```c
-	fprintf(stdout, "%s\n", "Hello");
-	```
-	
+    fprintf(stdout, "%s\n", "Hello");
+    ```
+    
 3. コンパイルがきちんと成功することを確認します。
+4. `./ruby -v` がHelloを出力するのをながめます。
